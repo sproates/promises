@@ -1,0 +1,34 @@
+{
+    "bitwise": false,
+    "camelcase": true,
+    "curly": true,
+    "eqeqeq": true,
+    "forin": true,
+    "immed": true,
+    "indent": 4,
+    "latedef": true,
+    "newcap": true,
+    "noarg": true,
+    "noempty": true,
+    "nonew": true,
+    "maxcomplexity": 5,
+    "maxdepth": 2,
+    "maxlen": 120,
+    "maxparams": 6,
+    "maxstatements": 5,
+    "plusplus": false,
+    "quotmark": true,
+    "strict": true,
+    "trailing": true,
+    "undef": true,
+    "unused": true,
+    "white": true,
+
+    "globals": {
+        "define": false,
+        "require": false,
+        "module": false
+    },
+
+    "node": true
+}
